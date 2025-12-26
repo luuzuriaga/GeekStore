@@ -1,6 +1,6 @@
 # Biblioteca Alura Geek
 
-![Alura Geek](./imagenes/web.png)
+![Geek Store](./imagenes/web.png)
 
 ## Descripcion
 
@@ -111,7 +111,7 @@ Sugerencias de mejoras fáciles: añadir validaciones al formulario, conectar a 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/luuzuriaga/AluraGeek.git
+   git clone https://github.com/luuzuriaga/GeekStore.git
 
 2.	Accede a la carpeta del proyecto:
 
