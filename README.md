@@ -51,8 +51,8 @@ Requisitos mínimos: un navegador moderno. Opcionalmente puedes usar un servidor
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/luuzuriaga/AluraGeek.git
-cd AluraGeek
+git clone https://github.com/luuzuriaga/GeekStore.git
+cd GeekStore
 ```
 
 2. Abrir directamente (opción rápida):
@@ -115,7 +115,7 @@ Sugerencias de mejoras fáciles: añadir validaciones al formulario, conectar a 
 
 2.	Accede a la carpeta del proyecto:
 
-    cd AluraGeek
+    cd Geekstore
 
 3.	Instala las dependencias (si las hay):
 
