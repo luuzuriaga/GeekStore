@@ -4,7 +4,7 @@
 
 ## Descripcion
 
-Bienvenido/a al repositorio de la Biblioteca Alura Geek — una página web de ejemplo para una tienda comercial. El proyecto usa una API falsa basada en un archivo JSON (`database/db.json`) para simular datos durante el desarrollo.
+Bienvenido/a al repositorio de Geek Store — una página web de ejemplo para una tienda comercial. El proyecto usa una API falsa basada en un archivo JSON (`database/db.json`) para simular datos durante el desarrollo.
 
 ## Contenido
 
