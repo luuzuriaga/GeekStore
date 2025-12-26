@@ -29,7 +29,7 @@ Bienvenido/a al repositorio de la Biblioteca Alura Geek — una página web de e
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 
-- **HTML5** → estructura semántica del sitio
+- **HTML5** → estructura semántica del sitio.
 - **CSS3** → estilos, layout y diseño responsive.  
 - **JavaScript** → interactividad y conexión con la API Fake.  
 - **JSON Server** → simulación de API para manejar productos.  
